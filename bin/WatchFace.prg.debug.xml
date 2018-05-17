@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="15" pc="268435456" symbol="onLayout"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="16" pc="268435460" symbol="onLayout"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="17" pc="268435503" symbol="onLayout"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="20" pc="268435547" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="22" pc="268435551" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="23" pc="268435587" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="25" pc="268435599" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="26" pc="268435612" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="30" pc="268435625" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="32" pc="268435642" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="33" pc="268435661" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="35" pc="268435680" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="36" pc="268435724" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="37" pc="268435760" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="40" pc="268435798" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="41" pc="268435808" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="41" pc="268435819" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="42" pc="268435832" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="43" pc="268435870" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="44" pc="268435906" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="47" pc="268435944" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="48" pc="268435988" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="51" pc="268436007" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="52" pc="268436051" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="53" pc="268436087" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="56" pc="268436129" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="57" pc="268436173" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="58" pc="268436209" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="61" pc="268436251" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="62" pc="268436268" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="63" pc="268436287" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="65" pc="268436294" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="67" pc="268436304" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="68" pc="268436340" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="69" pc="268436351" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="70" pc="268436387" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="73" pc="268436437" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="74" pc="268436473" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="77" pc="268436520" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="78" pc="268436556" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="79" pc="268436599" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="81" pc="268436637" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="82" pc="268436673" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="85" pc="268436741" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="86" pc="268436760" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="88" pc="268436767" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="89" pc="268436791" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="90" pc="268436810" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="91" pc="268436846" symbol="onUpdate"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="96" pc="268436923" symbol="onShow"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="98" pc="268436928" symbol="onHide"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="100" pc="268436933" symbol="onExitSleep"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceView.mc" lineNum="102" pc="268436938" symbol="onEnterSleep"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceApp.mc" lineNum="5" pc="268436944" symbol="initialize"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceApp.mc" lineNum="6" pc="268436948" symbol="initialize"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceApp.mc" lineNum="10" pc="268436967" symbol="onStart"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceApp.mc" lineNum="14" pc="268436972" symbol="onStop"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceApp.mc" lineNum="18" pc="268436977" symbol="getInitialView"/>
+<entry filename="/Users/m30417/eclipse-workspace/WatchFace/source/WatchFaceApp.mc" lineNum="19" pc="268436981" symbol="getInitialView"/>
+<entry filename="/Users/m30417/eclipse/java-oxygen/Eclipse.app/Contents/MacOS/Rez" lineNum="22" pc="268437019" symbol="WatchFace"/>
+<entry filename="/Users/m30417/eclipse/java-oxygen/Eclipse.app/Contents/MacOS/Rez" lineNum="26" pc="268437031" symbol="WatchFace"/>
+<entry filename="/Users/m30417/eclipse/java-oxygen/Eclipse.app/Contents/MacOS/Rez" lineNum="27" pc="268437202" symbol="WatchFace"/>
+<entry filename="/Users/m30417/eclipse/java-oxygen/Eclipse.app/Contents/MacOS/Rez" lineNum="28" pc="268437235" symbol="WatchFace"/>
+<entry filename="/Users/m30417/eclipse/java-oxygen/Eclipse.app/Contents/MacOS/Rez" lineNum="29" pc="268437287" symbol="WatchFace"/>
+<entry filename="/Users/m30417/eclipse/java-oxygen/Eclipse.app/Contents/MacOS/Rez" lineNum="32" pc="268437333" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="11" symbol="customFont"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="10" object="true" symbol="WatchFaceApp"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="9" object="true" symbol="WatchFaceView"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="18" symbol="AppName"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="16" symbol="LauncherIcon"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="13" symbol="heartIcon"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="12" symbol="typicons"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="14" module="true" symbol="Menus"/>
+<entry field="true" id="17" symbol="typicons22"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435547" name="dc" stackId="1" startPc="268435456"/>
+<entry endPc="268436922" name="dayOfWeek" stackId="11" startPc="268435551"/>
+<entry endPc="268436922" name="clockTime" stackId="4" startPc="268435551"/>
+<entry endPc="268436922" name="hourStr" stackId="7" startPc="268435551"/>
+<entry endPc="268436922" name="minStr" stackId="9" startPc="268435551"/>
+<entry endPc="268436922" name="hrIterator" stackId="15" startPc="268435551"/>
+<entry endPc="268436922" name="min" stackId="8" startPc="268435551"/>
+<entry endPc="268436922" name="myStats" stackId="13" startPc="268435551"/>
+<entry endPc="268436922" name="h" stackId="3" startPc="268435551"/>
+<entry endPc="268436922" name="battery" stackId="14" startPc="268435551"/>
+<entry endPc="268436922" name="today" stackId="10" startPc="268435551"/>
+<entry endPc="268436922" name="day" stackId="12" startPc="268435551"/>
+<entry endPc="268436922" name="y" stackId="6" startPc="268435551"/>
+<entry endPc="268436922" name="x" stackId="5" startPc="268435551"/>
+<entry endPc="268436922" name="w" stackId="2" startPc="268435551"/>
+<entry endPc="268436922" name="hr" stackId="16" startPc="268435551"/>
+<entry endPc="268436923" name="dc" stackId="1" startPc="268435547"/>
+<entry endPc="268436972" name="state" stackId="1" startPc="268436967"/>
+<entry endPc="268436977" name="state" stackId="1" startPc="268436972"/>
+<entry endPc="268437350" name="rez_cmp_local_bitmap_TimeLabel" stackId="2" startPc="268437031"/>
+<entry endPc="268437350" name="rez_cmp_local_bitmap_TimeLabel_fontHeight" stackId="3" startPc="268437031"/>
+<entry endPc="268437351" name="dc" stackId="1" startPc="268437019"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="onLayout" parent="WatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WatchFaceView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="WatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="WatchFaceView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WatchFaceApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="WatchFaceApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="166" parentId="globals" symbolId="WatchFaceApp" type="class"/>
+<dataEntry offset="237" parentId="globals" symbolId="WatchFaceView" type="class"/>
+<dataEntry offset="356" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="435" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="474" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="505" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="552" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="583" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="622" parentId="Rez" symbolId="Strings" type="module"/>
+</dataEntryOffsetMappings>
+</debugInfo>

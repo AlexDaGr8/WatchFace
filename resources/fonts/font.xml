@@ -1,0 +1,4 @@
+<fonts>
+	<font id="customFont" filename="custom.fnt" filter="0123456789" />
+	<font id="typicons22" filename="typicons22.fnt" filter="vwhplfqide" />
+</fonts>
